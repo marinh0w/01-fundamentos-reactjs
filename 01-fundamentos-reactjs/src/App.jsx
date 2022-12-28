@@ -5,6 +5,7 @@ import { Sidebar } from "./components/Sidebar";
 import styles from "./App.module.css";
 
 import "./global.css";
+import { Comment } from "./components/Comment";
 
 export function App() {
   return (
